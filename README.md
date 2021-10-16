@@ -5,11 +5,11 @@ This is a Weather Web App which shows the weather report of places. In this, you
 
 # Preview Of The Website 🤩
 
-![image](https://github.com/Sunidhimathur/Weather_web_app/blob/main/ss/1.png)
+![image](https://github.com/ManasviNarayan/Weather_web_app/blob/main/ss/1.png)
 
-![image](https://github.com/Sunidhimathur/Weather_web_app/blob/main/ss/2.png)
+![image](https://github.com/ManasviNarayan/Weather_web_app/blob/main/ss/2.png)
 
-![image](https://github.com/Sunidhimathur/Weather_web_app/blob/main/ss/3.png)
+![image](https://github.com/ManasviNarayan/Weather_web_app/blob/main/ss/3.png)
 
-![image](https://github.com/Sunidhimathur/Weather_web_app/blob/main/ss/4.png)
+![image](https://github.com/ManasviNarayan/Weather_web_app/blob/main/ss/4.png)
 
